@@ -1633,6 +1633,10 @@ select.portfolio-filter-mobile {
   transform: translateY(-50%);
   width: 100%;
 }
+
+.client-item .inner i {
+  font-size: 2rem;
+}
 .client-item img {
   display: inline-block;
 }
