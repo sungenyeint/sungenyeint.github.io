@@ -989,6 +989,16 @@ section.home.light .social-icons li a:hover {
   right: 10%;
 }
 
+.profile_img {
+  width: 30%;
+  margin-top: 150px!important;
+  border-radius: 80px;
+}
+.profile_about {
+  width: 80%;
+  border-radius: 80px;
+}
+
 /*=================================================================*/
 /*                      SKILLS
 /*=================================================================*/
